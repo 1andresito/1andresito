@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/banner.webp" alt="Shuichi Saihara - Ultimate Detective" width="700"/>
-</p>
-
 <h1 align="center">Hi, I'm Andres</h1>
 
 <h3 align="center">Developer focused on backend systems, scripting, and game tooling</h3>
